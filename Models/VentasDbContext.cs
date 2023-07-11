@@ -12,7 +12,7 @@ namespace MontiniMotos.Models
         protected override void OnConfiguring(DbContextOptionsBuilder options)
         {
             // connect to sql server with connection string from app settings
-            options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"));
+           base.OnConfiguring(options);
         }
         public DbSet<Categoria> Categorias { get; set; }
         public DbSet<Cliente> Clientes { get; set; }

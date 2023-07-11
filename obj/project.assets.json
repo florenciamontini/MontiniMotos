@@ -11451,19 +11451,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Administrator\\.nuget\\packages\\": {}
+    "C:\\Users\\lauta\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\MontiniMotos\\MontiniMotos.csproj",
+      "projectUniqueName": "C:\\Users\\lauta\\OneDrive\\Documents\\repos\\MontiniMotos\\MontiniMotos.csproj",
       "projectName": "MontiniMotos",
-      "projectPath": "C:\\Users\\Administrator\\source\\repos\\MontiniMotos\\MontiniMotos.csproj",
-      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\source\\repos\\MontiniMotos\\obj\\",
+      "projectPath": "C:\\Users\\lauta\\OneDrive\\Documents\\repos\\MontiniMotos\\MontiniMotos.csproj",
+      "packagesPath": "C:\\Users\\lauta\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lauta\\OneDrive\\Documents\\repos\\MontiniMotos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\lauta\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
