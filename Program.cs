@@ -19,6 +19,7 @@ builder.Services.AddDbContext<VentasDbContext>(options =>
 });
 
 builder.Services.AddScoped<ISolicitudPedidoService, SolicitudPedidosService>();
+builder.Services.AddScoped<IVentaService, VentaService>();
 
 var app = builder.Build();
 
